@@ -49,3 +49,4 @@ var snacks = [
  ] 
  console.table(snacks);
  console.log(`My favourite ${snacks[0][0]} are ${snacks[0][1]}, I rate them ${snacks[0][3]}.`);
+ 
